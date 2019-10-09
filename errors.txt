@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label no_es_necesario is defined twice, at
+  File "game/script.rpy", line 605 and
+  File "game/script.rpy", line 634.
+
+Ren'Py Version: Ren'Py 7.2.1.457
+Mon Sep 16 13:24:41 2019
